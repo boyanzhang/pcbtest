@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TaskWeek1">
+</Property><Property Name="解决方案文件" Value="C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1.sln">
+</Property><Property Name="用户选项文件" Value="C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1.suo">
+</Property><Property Name="Date" Value="2015年6月17日">
+</Property><Property Name="Time" Value="10:08">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TaskWeek1.sln" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TaskWeek1.suo" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1.suo">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\TaskWeek1.csproj" Description="项目文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\TaskWeek1.csproj">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FileRead.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FileRead.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormPassZhengji.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormPassZhengji.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormPassZhengji.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormPassZhengji.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormPassZuheban.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormPassZuheban.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormPassZuheban.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormPassZuheban.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZhengjiPeizhi.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZhengjiPeizhi.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZhengjiPeizhi.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZhengjiPeizhi.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZhengji.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZhengji.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZhengji.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZhengji.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormStart.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormStart.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormStart.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormStart.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormSelect.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormSelect.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormSelect.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormSelect.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZuheban.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZuheban.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZuheban.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZuheban.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZuhebanPeizhi.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZuhebanPeizhi.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZuhebanPeizhi.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZuhebanPeizhi.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Program.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Program.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\WordPlayer.cs" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\WordPlayer.cs">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Properties\Settings.settings" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\中国航天.jpg" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\中国航天.jpg">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\1.jpg" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\1.jpg">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\2.jpg" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\2.jpg">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\4.jpg" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\4.jpg">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\5.jpg" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\5.jpg">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\6.jpg" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\6.jpg">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\7.jpg" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\7.jpg">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\20150601045136206_easyicon_net_32.png" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\20150601045136206_easyicon_net_32.png">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\20150601071054710_easyicon_net_32.png" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\20150601071054710_easyicon_net_32.png">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\20150601071324696_easyicon_net_32.png" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\20150601071324696_easyicon_net_32.png">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\20150601071324696_easyicon_net_321.png" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\20150601071324696_easyicon_net_321.png">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\20150601071324696_easyicon_net_322.png" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\20150601071324696_easyicon_net_322.png">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\20150601071324696_easyicon_net_323.png" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\20150601071324696_easyicon_net_323.png">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\20150601072013330_easyicon_net_48.png" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\20150601072013330_easyicon_net_48.png">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Resources\20150601073650399_easyicon_net_24.png" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Resources\20150601073650399_easyicon_net_24.png">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormPassZhengji.resx" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormPassZhengji.resx">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormPassZuheban.resx" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormPassZuheban.resx">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormSelect.resx" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormSelect.resx">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormStart.resx" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormStart.resx">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZhengji.resx" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZhengji.resx">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZhengjiPeizhi.resx" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZhengjiPeizhi.resx">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZuheban.resx" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZuheban.resx">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\FormZuhebanPeizhi.resx" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\FormZuhebanPeizhi.resx">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\Properties\Resources.resx" Description="文件已成功备份为 C:\Documents and Settings\USER\桌面\TaskWeek2\Backup\TaskWeek1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\TaskWeek1.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="TaskWeek1" Source="TaskWeek1\TaskWeek1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TaskWeek1.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="TaskWeek1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TaskWeek1" Source="TaskWeek1\TaskWeek1.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,212 @@
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\bin\Debug\TaskWeek1.exe
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\bin\Debug\TaskWeek1.pdb
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.exe
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.pdb
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormSelect.resources
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormStart.resources
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormZuheban.resources
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormZhengji.resources
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormZhengjiPeizhi.resources
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormZuhebanPeizhi.resources
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\bin\Debug\CSkin.dll
+C:\Documents and Settings\Administrator\桌面\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormPass.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.exe
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.pdb
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\ResolveAssemblyReference.cache
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormPass.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormSelect.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormStart.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormZhengji.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormZhengjiPeizhi.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormZuheban.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.FormZuhebanPeizhi.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.Properties.Resources.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\obj\Debug\TaskWeek1.csproj.GenerateResource.Cache
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\bin\Debug\TaskWeek1.exe
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\bin\Debug\TaskWeek1.pdb
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\bin\Debug\CSkin.dll
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek1\TaskWeek1\bin\Debug\CSkin.xml
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.exe
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.pdb
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\ResolveAssemblyReference.cache
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormSelect.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormStart.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZhengji.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZhengjiPeizhi.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZuheban.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZuhebanPeizhi.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.Properties.Resources.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.csproj.GenerateResource.Cache
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\bin\Debug\TaskWeek1.exe
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\bin\Debug\TaskWeek1.pdb
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\bin\Debug\CSkin.dll
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\bin\Debug\CSkin.xml
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassZhengji.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassZuheban.resources
+E:\C#供配电控制类产品智能测试工装系统\C#Zhangyufeiwork\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.csproj.ResolveComReference.cache
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.csproj.ResolveComReference.cache
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\bin\Debug\CSkin.xml
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassZhengji.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormSelect.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormStart.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZhengji.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZhengjiPeizhi.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.Properties.Resources.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\bin\Debug\RowMergeView.dll
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormLaolian.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassLaolian.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormLaolianPeizhi.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormGonglv.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormGonglvPeizhi.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassGonglv.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormKongzhi.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormKongzhiPeizhi.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassKongzhi.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassZonghe.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZonghe.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZonghePeizhi.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassZuhe.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZuhe.resources
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZuhePeizhi.resources
+J:\TaskWeek2\TaskWeek1\bin\Debug\TaskWeek1.exe.config
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.csproj.ResolveComReference.cache
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.exe
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.pdb
+J:\TaskWeek2\TaskWeek1\bin\Debug\TaskWeek1.exe
+J:\TaskWeek2\TaskWeek1\bin\Debug\TaskWeek1.pdb
+J:\TaskWeek2\TaskWeek1\bin\Debug\RowMergeView.dll
+J:\TaskWeek2\TaskWeek1\bin\Debug\CSkin.xml
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.csprojResolveAssemblyReference.cache
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormGonglv.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormGonglvPeizhi.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassGonglv.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormKongzhi.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormKongzhiPeizhi.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassKongzhi.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormSelect.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormStart.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassZhengji.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZhengji.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZhengjiPeizhi.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassZonghe.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZonghe.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZonghePeizhi.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassZuhe.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZuhe.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormZuhePeizhi.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.Properties.Resources.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormLaolian.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormPassLaolian.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.FormLaolianPeizhi.resources
+J:\TaskWeek2\TaskWeek1\obj\Debug\TaskWeek1.csproj.GenerateResource.Cache
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe.config
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\bin\Debug\供配电控制类智能测试系统.pdb
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\供配电控制类智能测试系统.exe
+C:\Documents and Settings\USER\桌面\TaskWeek2\TaskWeek1\obj\Debug\供配电控制类智能测试系统.pdb
+D:\供配电控制类智能测试系统\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe.config
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.csproj.ResolveComReference.cache
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\供配电控制类智能测试系统.exe
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\供配电控制类智能测试系统.pdb
+D:\供配电控制类智能测试系统\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe
+D:\供配电控制类智能测试系统\TaskWeek1\bin\Debug\供配电控制类智能测试系统.pdb
+D:\供配电控制类智能测试系统\TaskWeek1\bin\Debug\CSkin.xml
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\ResolveAssemblyReference.cache
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormGonglv.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormGonglvPeizhi.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormPassGonglv.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormKongzhi.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormKongzhiPeizhi.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormPassKongzhi.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormSelect.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormStart.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormPassZhengji.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormZhengji.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormZhengjiPeizhi.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormPassZonghe.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormZonghe.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormZonghePeizhi.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormPassZuhe.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormZuhe.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormZuhePeizhi.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.Properties.Resources.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormLaolian.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormPassLaolian.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\TaskWeek1.FormLaolianPeizhi.resources
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\GenerateResource.read.1.tlog
+D:\供配电控制类智能测试系统\TaskWeek1\obj\Debug\GenerateResource.write.1.tlog
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe.config
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.csproj.ResolveComReference.cache
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\供配电控制类智能测试系统.exe
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\供配电控制类智能测试系统.pdb
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\bin\Debug\供配电控制类智能测试系统.pdb
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\bin\Debug\RowMergeView.dll
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\bin\Debug\CSkin.xml
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\ResolveAssemblyReference.cache
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormGonglv.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormGonglvPeizhi.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormPassGonglv.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormKongzhi.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormKongzhiPeizhi.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormPassKongzhi.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormSelect.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormStart.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormPassZhengji.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormZhengji.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormZhengjiPeizhi.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormPassZonghe.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormZonghe.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormZonghePeizhi.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormPassZuhe.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormZuhe.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormZuhePeizhi.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.Properties.Resources.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormLaolian.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormPassLaolian.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormLaolianPeizhi.resources
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\GenerateResource.read.1.tlog
+G:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\GenerateResource.write.1.tlog
+K:\供配电控制类智能测试系统1.0.1test\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe.config
+K:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.csproj.ResolveComReference.cache
+K:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\供配电控制类智能测试系统.exe
+K:\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\供配电控制类智能测试系统.pdb
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe.config
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.csproj.ResolveComReference.cache
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\供配电控制类智能测试系统.exe
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\供配电控制类智能测试系统.pdb
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\bin\Debug\供配电控制类智能测试系统.pdb
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\bin\Debug\CSkin.xml
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormSelect.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormStart.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.Properties.Resources.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormLaolian.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormPass.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormPeizhi.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.1test\TaskWeek1\obj\Debug\TaskWeek1.FormTest.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe.config
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\TaskWeek1.csproj.ResolveComReference.cache
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\供配电控制类智能测试系统.exe
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\供配电控制类智能测试系统.pdb
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\bin\Debug\供配电控制类智能测试系统.exe
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\bin\Debug\供配电控制类智能测试系统.pdb
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\bin\Debug\CSkin.xml
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\TaskWeek1.FormSelect.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\TaskWeek1.FormStart.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\TaskWeek1.FormTest.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\TaskWeek1.Properties.Resources.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\TaskWeek1.FormLaolian.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\TaskWeek1.FormPass.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\TaskWeek1.FormPeizhi.resources
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\TaskWeek1.csprojResolveAssemblyReference.cache
+C:\Users\lyr\Desktop\供配电控制类智能测试系统1.0.0.2\TaskWeek1\obj\Debug\TaskWeek1.csproj.GenerateResource.Cache
